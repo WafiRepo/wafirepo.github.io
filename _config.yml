@@ -2,7 +2,7 @@
 title: Milzam Wafi Azhar
 
 # Your Website URL
-url: 'http://wafirepo.github.io'
+url: 'http://WafiRepo.github.io'
 
 # Leave it default
 baseurl: '' 
@@ -12,7 +12,7 @@ ga_index: UA-XXXXXXXX-X
 ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
-name: Melvin Ch'ng
+name: Milzam Wafi Azhar
 tagline: Software Developer, IoT, Reverse Engineering
 pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: Full Stack Developer, IoT, Reverse Engineering
